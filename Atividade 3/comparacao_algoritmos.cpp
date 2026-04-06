@@ -101,5 +101,6 @@ int main() {
         }
     }
     saida.close();
+    system("pause");
     return 0;
 }
